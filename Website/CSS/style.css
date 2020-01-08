@@ -12,13 +12,13 @@ footer {
     transform: scale(1.1);
 }
 
-#hover1 img:hover {
+
+.hover img:hover {
     transition: .7s ease;
     transform: scale(1.03);
-
 }
 
-#hover1 img {
+.hover img {
     transition: .7s ease;
     transform: scale(1);
 }
